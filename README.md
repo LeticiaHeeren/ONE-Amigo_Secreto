@@ -1,22 +1,22 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Aplicação web desenvolvida como parte do challenge proposto pela **Alura** em parceria com o **Oracle Next Education (ONE)**. O projeto permite cadastrar participantes e realizar um sorteio aleatório para definir o amigo secreto de cada um.
 
 ---
 
-## 🖥️ Demonstração
+## Demonstração
 
 ![Resultado final.](assets/Resultado.png)
 
 ---
 
-## 💡 Sobre o projeto
+## Sobre o projeto
 
 O desafio consistia em construir uma aplicação funcional do zero, aplicando conceitos de lógica de programação com JavaScript. Aproveitei para ir além do escopo básico e personalizar a interface com uma identidade visual própria, explorando CSS avançado e boas práticas de organização de código.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Adicionar participantes** — campo de texto com validação: não aceita entradas vazias
 - **Lista dinâmica** — os nomes aparecem na tela em tempo real conforme são adicionados
@@ -25,7 +25,7 @@ O desafio consistia em construir uma aplicação funcional do zero, aplicando co
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 | Tecnologia | Uso |
 |---|---|
@@ -35,7 +35,7 @@ O desafio consistia em construir uma aplicação funcional do zero, aplicando co
 
 ---
 
-## 📁 Estrutura de arquivos
+## strutura de arquivos
 
 ```
 ONE-Amigo_Secreto/
@@ -51,7 +51,7 @@ ONE-Amigo_Secreto/
 
 ---
 
-## 🚀 Como executar localmente
+## Como executar localmente
 
 ```bash
 # 1. Clone o repositório
@@ -69,7 +69,7 @@ Não há dependências nem instalações necessárias — o projeto roda diretam
 
 ---
 
-## 📚 O que aprendi
+## O que aprendi
 
 - Manipulação do DOM com JavaScript puro (`getElementById`, `innerHTML`, `createElement`)
 - Uso de arrays para gerenciar estado da aplicação
@@ -79,13 +79,13 @@ Não há dependências nem instalações necessárias — o projeto roda diretam
 
 ---
 
-## 🎨 Decisões de design
+## Decisões de design
 
 Optei pela paleta de cores **vinho e dourado**, criando uma atmosfera mais festiva e adequada ao tema de amigo secreto. As variáveis CSS no `:root` facilitaram a consistência das cores em toda a aplicação.
 
 ---
 
-## 👩‍💻 Autora
+## ✨ Autora
 
 **Leticia Heeren**
 Estudante de tecnologia | Formação Oracle Next Education (ONE) + Alura
